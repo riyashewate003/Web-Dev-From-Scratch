@@ -5,8 +5,6 @@ Here, I document my progress as I learn and grow from a beginner to a web develo
 
 ---
 
-## 🚀 What’s Inside This Repo
-
 ## 🎥 Video-wise Topics Covered
 
 This section will be updated as I finish each video. Each topic reflects what I’ve learned, along with examples and code snippets.
